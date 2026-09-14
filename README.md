@@ -1,10 +1,6 @@
 Olá, eu sou Thales Henrique Calil
 
-Estudante de Engenharia de Software
-
-Interessado em Desenvolvimento de Software
-
-Foco atual: Java, Spring Boot e desenvolvimento Full Stack
+Sou estudante de Engenharia de Software, interessado em Desenvolvimento de Software, com foco atual em **Java, Spring Boot e desenvolvimento Full Stack com Angular**.
 
 ---
 
