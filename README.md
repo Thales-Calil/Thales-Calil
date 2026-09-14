@@ -59,7 +59,7 @@ Java • Spring Boot • Thymeleaf • MySQL
 
 ## Atualmente estudando
 
-- Cursando Engenharia de Software na PUCPR
+- Engenharia de Software na PUCPR
 - Desenvolvimento com Spring Boot + Angular
 - APIs REST
 - Desenvolvimento Full Stack
