@@ -1,8 +1,10 @@
-👋 Olá, eu sou Thales Henrique Calil
+Olá, eu sou Thales Henrique Calil
 
-🎓 Estudante de Engenharia de Software
-💻 Interessado em Desenvolvimento de Software
-🚀 Foco atual: Java, Spring Boot e desenvolvimento Full Stack
+Estudante de Engenharia de Software
+
+Interessado em Desenvolvimento de Software
+
+Foco atual: Java, Spring Boot e desenvolvimento Full Stack
 
 ---
 
@@ -42,7 +44,7 @@ Scrum • Kanban • PMBOK
 
 ## Projetos
 
-### 🏢 Sistema Escalarte
+### Sistema Escalarte
 Sistema web para gerenciamento de colaboradores
 e escalas, desenvolvido com Java e Spring Boot.
 
@@ -59,7 +61,7 @@ Java • Spring Boot • Thymeleaf • MySQL
 
 ---
 
-## 📚 Atualmente estudando
+## Atualmente estudando
 
 - Cursando Engenharia de Software na PUCPR
 - Desenvolvimento com Spring Boot + Angular
@@ -70,7 +72,7 @@ Java • Spring Boot • Thymeleaf • MySQL
 
 ---
 
-## 📫 Contato
+## Contato
 
 LinkedIn: www.linkedin.com/in/thales-calil-9b351139a
 Email: thaleshcalil@gmail.com
