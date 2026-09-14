@@ -30,7 +30,7 @@ Spring Boot • Thymeleaf • MySQL • HTML/CSS
 Git/GitHub • Maven
 
 ### Conceitos
-POO • MVC • APIs REST • Banco de Dados
+POO • APIs REST • Banco de Dados
 • Arquitetura de Software
 
 ### Metodologias
@@ -53,7 +53,7 @@ Java • Spring Boot • Thymeleaf • MySQL
   turnos e escalas
 - Diferentes perfis de acesso
 - Integração com banco de dados
-- Aplicação de POO e MVC
+- Aplicação de POO
 
 ---
 
